@@ -1,6 +1,9 @@
 # Notas - Terminal y Línea de Comandos
 Notas auxiliares sobre la Terminal y la Línea de Comandos, como comandos más utilizados, permisos de usuarios, etc.
-## Comandos más comunes
+## Los comandos
+### Ejecución de comandos
+### Variables de entorno
+## Comandos más Comunes
 * Listar contenido del directorio (archivos y subdirectorios) ordenados alfabeticamente
 ```
 ls
@@ -159,6 +162,20 @@ nano /ubicación/del/archivo/nombre_del_archivo
 * Salir de nano    
 
 <kbd>Ctrl</kbd> + <kbd>X</kbd>
+## Comandos para Administración de procesos
+## Comandos para Administración de accesos
+### Usuarios
+### Permisos sobre archivos
+## Comandos para Manejo de paquetes
+### Paquetes binarios
+### Paquetes de lenguajes
+## Comandos de Herramientas avanzadas
+### Compresión de archivos
+### Combinación de archivos
+### HTTP
+## Conexión SSH
+## Programación de Tareas
+### Cron y Crontab
 ## Shortcuts
 * Buscar en el historial de comandos: <kbd>Ctrl</kbd> + <kbd>R</kbd>
 * Limpiar la terminal: <kbd>Ctrl</kbd> + <kbd>L</kbd>
