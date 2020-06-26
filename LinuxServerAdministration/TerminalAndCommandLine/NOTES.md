@@ -110,3 +110,38 @@ tail /ubicación/del/archivo/nombre_del_archivo
 ```
 tail -n [numero de lineas] /ubicación/del/archivo/nombre_del_archivo
 ```
+## Shortcuts
+* <kbd>Ctrl</kbd> + <kbd>R</kbd>: Buscar en el historial de comandos
+* <kbd>Ctrl</kbd> + <kbd>L</kbd>: Limpiar la terminal
+* <kbd>Ctrl</kbd> + <kbd>D</kbd>: Salir de la terminal
+* <kbd>Ctrl</kbd> + <kbd>C</kbd>: Detener el comando o proceso
+## Comandos para Manejo de Archivos de Texto
+### Vim
+* Editar un archivo de texto o crear uno nuevo con Vim
+```
+vim /ubicación/del/archivo/nombre_del_archivo
+```
+* Editar texto, entrar al modo de edición
+```
+i
+```
+* Salir del modo de edición
+```
+Presionar Esc
+```
+* Activar uso de comandos
+```
+:
+```
+* Guardar los cambios en el archivo
+```
+:w
+```
+* Salir de vim
+```
+:q
+```
+* Guardar los cambios en el archivo y salir de vim
+```
+:x
+```
