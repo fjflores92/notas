@@ -110,11 +110,14 @@ tail /ubicación/del/archivo/nombre_del_archivo
 ```
 tail -n [numero de lineas] /ubicación/del/archivo/nombre_del_archivo
 ```
-## Shortcuts
-* <kbd>Ctrl</kbd> + <kbd>R</kbd>: Buscar en el historial de comandos
-* <kbd>Ctrl</kbd> + <kbd>L</kbd>: Limpiar la terminal
-* <kbd>Ctrl</kbd> + <kbd>D</kbd>: Salir de la terminal
-* <kbd>Ctrl</kbd> + <kbd>C</kbd>: Detener el comando o proceso
+* Filtrar contenido de texto línea por línea contra con una expresión regular
+```
+grep [regex] /ubicación/del/archivo/nombre_del_archivo
+```
+* Filtrar contenido de texto línea por línea contra con una expresión regular ignorando mayúsculas o minúsculas
+```
+grep -i [regex] /ubicación/del/archivo/nombre_del_archivo
+```
 ## Comandos para Manejo de Archivos de Texto
 ### Vim
 * Editar un archivo de texto o crear uno nuevo con Vim
@@ -145,3 +148,17 @@ Presionar Esc
 ```
 :x
 ```
+### Nano
+* Editar un archivo de texto o crear uno nuevo con Nano
+```
+nano /ubicación/del/archivo/nombre_del_archivo
+```
+* Guardar los cambios en el archivo
+<kbd>Ctrl</kbd> + <kbd>O</kbd>
+* Salir de nano
+<kbd>Ctrl</kbd> + <kbd>X</kbd>
+## Shortcuts
+* Buscar en el historial de comandos: <kbd>Ctrl</kbd> + <kbd>R</kbd>
+* Limpiar la terminal: <kbd>Ctrl</kbd> + <kbd>L</kbd>
+* Salir de la terminal: <kbd>Ctrl</kbd> + <kbd>D</kbd>
+* Detener el comando o proceso: <kbd>Ctrl</kbd> + <kbd>C</kbd>
