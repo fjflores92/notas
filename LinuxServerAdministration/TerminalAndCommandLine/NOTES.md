@@ -153,9 +153,11 @@ Presionar Esc
 ```
 nano /ubicación/del/archivo/nombre_del_archivo
 ```
-* Guardar los cambios en el archivo
+* Guardar los cambios en el archivo    
+
 <kbd>Ctrl</kbd> + <kbd>O</kbd>
-* Salir de nano
+* Salir de nano    
+
 <kbd>Ctrl</kbd> + <kbd>X</kbd>
 ## Shortcuts
 * Buscar en el historial de comandos: <kbd>Ctrl</kbd> + <kbd>R</kbd>
