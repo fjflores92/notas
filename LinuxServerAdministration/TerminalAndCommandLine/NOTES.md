@@ -157,10 +157,8 @@ Presionar Esc
 nano /ubicación/del/archivo/nombre_del_archivo
 ```
 * Guardar los cambios en el archivo    
-
 <kbd>Ctrl</kbd> + <kbd>O</kbd>
 * Salir de nano    
-
 <kbd>Ctrl</kbd> + <kbd>X</kbd>
 ## Comandos para Administración de procesos
 ## Comandos para Administración de accesos
