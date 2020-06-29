@@ -76,7 +76,7 @@ The API Lifecycle Management diagram below represents a detailed view of the ste
 * Why? Simply because you can’t control nor improve what you can’t measure.
 * Embedded Analytics for API Management is a must-have when you want to manage your growing number of APIs.
 
-| <img src="./Axway_API_Lifecycle_Management_Diagram.png" alt="CA Full Lyfecycle API Management" width="600"/> |
+| <img src="./Axway_API_Lifecycle_Management_Diagram.png" alt="Axway API Lifecycle Management Diagram" width="600"/> |
 |:--:| 
 | *Axway API Lifecycle Management Diagram* |
 
